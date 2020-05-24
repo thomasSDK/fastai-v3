@@ -1,8 +1,19 @@
 # Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+This repo has been modified to run a test application to classify [nudibranchs](https://www.wikiwand.com/en/Nudibranch)
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+Nudibranchs also known as nudi are a group of soft-bodied, marine gastropod molluscs which shed their shells after their larval stage. They are noted for their often extraordinary colours and striking forms, and they have been given colourful nicknames to match, such as "clown," "marigold," "splendid," "dancer," "dragon," or "sea rabbit." Currently, about 3,000 valid species of nudibranchs are known.
+
+The word "nudibranch" comes from the Latin nudus "naked" and the Ancient Greek βράγχια (bránkhia) "gills". 
+
+Thhe current 4 species it can classify are: 
+
+  chromodoris_lochi,
+  hermissenda_crassicornis,
+  hexabranchus_sanguineus,
+  nembrotha_kubaryana
+
+-----------------------------------------------------------------------
 
 You can test your changes locally by installing Docker and using the following command:
 
