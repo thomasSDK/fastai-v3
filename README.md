@@ -6,12 +6,12 @@ Nudibranchs also known as nudi are a group of soft-bodied, marine gastropod moll
 
 The word "nudibranch" comes from the Latin nudus "naked" and the Ancient Greek βράγχια (bránkhia) "gills". 
 
-Thhe current 4 species it can classify are: 
+The current 4 species it can classify are: 
 
-  chromodoris_lochi,
-  hermissenda_crassicornis,
-  hexabranchus_sanguineus,
-  nembrotha_kubaryana
+  chromodoris lochi,  
+  hermissenda crassicornis,  
+  hexabranchus sanguineus,  
+  nembrotha kubaryana
 
 -----------------------------------------------------------------------
 
